@@ -1,0 +1,8 @@
+1. write class with function
+   String filter(String origin)
+   the responsibility of that function is:
+   - get rid of vowels
+   - make all rest character lowercase
+
+2. write test to show/prove that function works
+
